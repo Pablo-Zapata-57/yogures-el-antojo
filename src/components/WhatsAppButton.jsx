@@ -1,5 +1,5 @@
 const WhatsAppButton = () => {
-    const link = "https://wa.me/573000000000?text=" +
+    const link = "https://wa.me/573046083756?text=" +
         encodeURIComponent("Hola! Quiero hacer un pedido de Yogures el Antojo 🍓");
     return (<a href={link} target="_blank" rel="noopener noreferrer" aria-label="Pedir por WhatsApp" className="fixed bottom-5 right-5 md:bottom-7 md:right-7 z-50 group">
       <span className="absolute inset-0 rounded-full bg-whatsapp/40 animate-ping" aria-hidden/>

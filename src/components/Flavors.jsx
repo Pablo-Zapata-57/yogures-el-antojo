@@ -12,7 +12,7 @@ const flavors = [
     { name: "Natural con Miel", description: "Yogur clásico con miel pura y granola.", img: natural, tag: "Clásico" },
     { name: "Maracuyá", description: "Intenso y refrescante, una explosión cítrica.", img: passion, tag: "Nuevo" },
 ];
-const buildWaLink = (flavor) => `https://wa.me/573000000000?text=${encodeURIComponent(`Hola! Quiero pedir el yogur de ${flavor} 🥄`)}`;
+const buildWaLink = (flavor) => `https://wa.me/573046083756?text=${encodeURIComponent(`Hola! Quiero pedir el yogur de ${flavor} 🥄`)}`;
 const Flavors = () => {
     return (<section id="sabores" className="py-20 md:py-28 gradient-soft">
       <div className="container">

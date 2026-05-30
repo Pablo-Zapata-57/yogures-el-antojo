@@ -1,9 +1,9 @@
-import logo from "@/assets/logo.png";
+import logo from "@/assets/logo-Yogures-el-antojo-2.jpg";
 const Header = () => {
     return (<header className="sticky top-0 z-40 w-full backdrop-blur-md bg-background/80 border-b border-border/50">
       <div className="container flex items-center justify-between h-16 md:h-20">
         <a href="#inicio" className="flex items-center gap-2 group">
-          <img src={logo} alt="Logo Yogures el Antojo" width={48} height={48} className="w-10 h-10 md:w-12 md:h-12 object-contain transition-bounce group-hover:scale-110"/>
+          <img src={logo} alt="Logo Yogures el Antojo" width={64} height={64} className="w-16 h-16 md:w-20 md:h-20 object-contain transition-bounce group-hover:scale-110"/>
           <div className="leading-tight">
             <h1 className="font-display text-lg md:text-xl font-semibold text-foreground">
               Yogures <span className="text-primary">el Antojo</span>

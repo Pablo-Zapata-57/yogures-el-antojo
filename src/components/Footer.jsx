@@ -1,4 +1,4 @@
-import logo from "@/assets/logo.png";
+import logo from "@/assets/logo-Yogures-el-antojo-2.jpg";
 const Footer = () => {
     return (<footer className="bg-cream-deep/50 border-t border-border/60 py-12">
       <div className="container">
