@@ -43,7 +43,7 @@ const Blog = () => {
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
             {blogData.map((post) => (
-              <article key={post.slug} className="group overflow-hidden rounded-[2rem] bg-card border border-border/70 shadow-soft transition-smooth hover:-translate-y-1 hover:shadow-card">
+              <Link key={post.slug} to={`/blog/${post.slug}`} className="group block overflow-hidden rounded-[2rem] bg-card border border-border/70 shadow-soft transition-smooth hover:-translate-y-1 hover:shadow-card focus:outline-none focus:ring-2 focus:ring-primary/50">
                 <img src={imageMap[post.image]} alt={post.title} className="h-56 w-full object-cover" />
                 <div className="p-6">
                   <span className="text-xs font-semibold tracking-widest uppercase text-secondary">
@@ -55,12 +55,12 @@ const Blog = () => {
                   <p className="text-muted-foreground leading-relaxed mb-6">
                     {post.excerpt}
                   </p>
-                  <Link to={`/blog/${post.slug}`} className="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/90 transition-smooth">
+                  <div className="inline-flex items-center gap-2 text-sm font-semibold text-primary transition-smooth">
                     Leer artículo
                     <span aria-hidden>→</span>
-                  </Link>
+                  </div>
                 </div>
-              </article>
+              </Link>
             ))}
           </div>
         </section>
