@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "de-la-granja-a-tu-mesa",
+    "title": "De la granja a tu mesa: el proceso detrás de nuestro yogur artesanal",
+    "excerpt": "Cada paso está pensado para respetar el sabor natural y mantener la frescura desde la selección hasta la cuchara.",
+    "description": "Descubre cómo combinamos fruta real, leche fresca y cultivos vivos para crear una experiencia cremosa, saludable y llena de sabor.",
+    "image": "hero-yogurt.jpg",
+    "content": "Todo comienza con ingredientes selectos: leche fresca de calidad y frutas de temporada que conservan su sabor auténtico. El proceso artesanal respeta cada etapa de fermentación para mantener vivos los probióticos y lograr una textura suave y cremosa. El resultado es un yogur que no solo sabe bien, sino que nutre y entrega una sensación fresca en cada cucharada."
+  },
+  {
+    "slug": "frutas-de-temporada-y-textura-perfecta",
+    "title": "Frutas de temporada y textura perfecta en cada cucharada",
+    "excerpt": "Con frutas frescas y trozos reales, cada yogur es una combinación de sabor vibrante y cremosidad natural.",
+    "description": "Aprende por qué usamos solo fruta real y cómo esto hace que nuestras recetas sean diferentes y más deliciosas.",
+    "image": "flavor-strawberry.jpg",
+    "content": "Seleccionamos solo frutas maduras y de temporada para asegurar un sabor intenso y auténtico, sin azúcares artificiales. Cada lote se mezcla cuidadosamente para que la textura sea sedosa, manteniendo los trozos de fruta siempre presentes. El balance entre dulzura y acidez se logra con ingredientes naturales que realzan el yogur sin enmascarar su frescura."
+  },
+  {
+    "slug": "probióticos-activos-para-tu-digestion",
+    "title": "Probióticos activos para tu digestión y bienestar diario",
+    "excerpt": "Nuestro yogur es más que sabor: es una fuente natural de probióticos que apoyan tu sistema digestivo.",
+    "description": "Descubre cómo los cultivos vivos trabajan en tu cuerpo para darte una experiencia suave y saludable.",
+    "image": "flavor-mango.jpg",
+    "content": "El yogur contiene cultivos vivos que ayudan a equilibrar la flora intestinal y mejorar la digestión. Fermentamos cada lote con paciencia para asegurar que los probióticos estén activos y listos para ti. Es una manera deliciosa de integrar beneficios naturales en tu día a día sin sacrificar el sabor."
+  },
+  {
+    "slug": "compromiso-con-la-calidad-y-sostenibilidad",
+    "title": "Compromiso con la calidad y sostenibilidad en cada paso",
+    "excerpt": "Desde la selección de ingredientes hasta el empaque, nos esforzamos por ser responsables con el medio ambiente.",
+    "description": "Conoce nuestras prácticas sostenibles y cómo trabajamos para reducir nuestro impacto ambiental mientras te ofrecemos un producto de calidad.",
+    "image": "flavor-mango.jpg",
+    "content": "Trabajamos con proveedores locales para obtener ingredientes frescos y apoyar a las comunidades cercanas. Utilizamos envases reciclables y buscamos constantemente formas de reducir nuestro desperdicio. Nuestro compromiso es ofrecer un producto que no solo sea delicioso, sino también respetuoso con el planeta."
+  }
+]

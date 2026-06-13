@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "@/assets/logo-Yogures-el-antojo-2.jpg";
 const Footer = () => {
     return (<footer className="bg-cream-deep/50 border-t border-border/60 py-12">
@@ -14,6 +15,7 @@ const Footer = () => {
           <nav className="flex items-center gap-6 text-sm text-muted-foreground">
             <a href="#beneficios" className="hover:text-primary transition-smooth">Beneficios</a>
             <a href="#sabores" className="hover:text-primary transition-smooth">Sabores</a>
+            <Link to="/blog" className="hover:text-primary transition-smooth">Blog</Link>
             <a href="#contacto" className="hover:text-primary transition-smooth">Contacto</a>
           </nav>
 

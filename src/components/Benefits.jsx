@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { Leaf, Cherry, Sparkles } from "lucide-react";
 const benefits = [
     {
@@ -48,6 +49,13 @@ const Benefits = () => {
                 {b.description}
               </p>
             </div>))}
+        </div>
+
+        <div className="mt-10 text-center">
+          <Link to="/blog" className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full gradient-warm text-primary-foreground font-semibold shadow-soft hover:shadow-glow transition-smooth hover:-translate-y-0.5">
+            Ver blog completo
+            <span aria-hidden>→</span>
+          </Link>
         </div>
       </div>
     </section>);
