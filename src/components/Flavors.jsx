@@ -1,14 +1,14 @@
 import strawberry from "@/assets/flavor-strawberry.jpg";
 import mango from "@/assets/flavor-mango.jpg";
 import blueberry from "@/assets/flavor-blueberry.jpg";
-import peach from "@/assets/flavor-peach.jpg";
+import peach from "@/assets/Yogurt-de-piña.jpg.png";
 import natural from "@/assets/flavor-natural.jpg";
 import passion from "@/assets/flavor-passion.jpg";
 const flavors = [
     { name: "Fresa", description: "Dulce y cremoso, con trozos de fresa fresca.", img: strawberry, tag: "Best seller" },
     { name: "Mango", description: "Tropical y vibrante, mango maduro 100% natural.", img: mango, tag: "Favorito" },
     { name: "Arándanos", description: "Antioxidantes en cada cucharada.", img: blueberry, tag: null },
-    { name: "Durazno", description: "Suave, jugoso y reconfortante.", img: peach, tag: null },
+    { name: "Piña", description: "Suave, jugoso y reconfortante.", img: peach, tag: null },
     { name: "Natural con Miel", description: "Yogur clásico con miel pura y granola.", img: natural, tag: "Clásico" },
     { name: "Maracuyá", description: "Intenso y refrescante, una explosión cítrica.", img: passion, tag: "Nuevo" },
 ];

@@ -20,7 +20,7 @@ const Hero = () => {
           <p className="text-base md:text-lg text-muted-foreground max-w-lg mx-auto md:mx-0 leading-relaxed">
             Yogures hechos a mano con leche fresca, fruta real y mucho cariño.
             Sin conservantes. Sólo sabor de verdad.
-          </p>
+          </p>  
 
           <div className="flex flex-col sm:flex-row items-center gap-3 sm:gap-4 justify-center md:justify-start pt-2">
             <a href="https://wa.me/573046083756?text=Hola!%20Quiero%20hacer%20un%20pedido%20de%20Yogures%20el%20Antojo%20🍓" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full gradient-warm text-primary-foreground font-semibold shadow-glow hover:shadow-soft transition-bounce hover:scale-105 w-full sm:w-auto">
