@@ -5,12 +5,12 @@ import peach from "@/assets/Yogurt-de-piña.jpg.jpeg";
 import natural from "@/assets/Yogurt-de-guanabana.jpg.jpeg";
 import passion from "@/assets/Yogurt-kumis.jpg.jpeg";
 const flavors = [
-    { name: "Fresa", description: "Dulce y cremoso, con trozos de fresa fresca.", img: strawberry, tag: "Best seller" },
-    { name: "Mora", description: "Tropical y vibrante, mango maduro 100% natural.", img: mango, tag: "Favorito" },
-    { name: "Maracuyá", description: "Antioxidantes en cada cucharada.", img: blueberry, tag: null },
-    { name: "Piña", description: "Suave, jugoso y reconfortante.", img: peach, tag: null },
-    { name: "Guanábana", description: "Yogur clásico con miel pura y granola.", img: natural, tag: "Clásico" },
-    { name: "Kumis", description: "Intenso y refrescante, una explosión cítrica.", img: passion, tag: "Nuevo" },
+    { name: "Fresa", description: "Un clásico que combina la dulzura natural de la fresa con la textura cremosa de nuestro yogur. Cada cucharada trae trozos reales de fruta que se funden con la base láctea para un sabor fresco y reconfortante.", img: strawberry, tag: "Best seller" },
+    { name: "Mora", description: "Un sabor vibrante que despierta el paladar con notas ácidas y dulces. Nuestro yogur de mora está hecho con fruta madura de verdad para ofrecer una experiencia intensa y llena de energía.", img: mango, tag: "Favorito" },
+    { name: "Maracuyá", description: "Exótico y refrescante, este sabor ofrece el equilibrio perfecto entre acidez y cremosidad. Es la opción ideal para quienes buscan un toque tropical sin perder la suavidad del yogur artesanal.", img: blueberry, tag: null },
+    { name: "Piña", description: "Jugoso y delicado, con el aroma natural de la fruta tropical. La piña aporta una sensación ligera y dulce que transforma cada cucharada en un momento fresco y delicioso.", img: peach, tag: null },
+    { name: "Guanábana", description: "Cremoso y suave, con un toque sutil de dulzura natural. La guanábana se integra perfectamente con nuestra base de yogur para ofrecer un sabor delicado y reconfortante.", img: natural, tag: "Clásico" },
+    { name: "Kumis", description: "Una experiencia auténtica y diferente, con matices fermentados y un toque refrescante. Este sabor rinde homenaje a las tradiciones lácteas mientras sigue siendo ligero y muy sabroso.", img: passion, tag: "Nuevo" },
 ];
 const buildWaLink = (flavor) => `https://wa.me/573046083756?text=${encodeURIComponent(`Hola! Quiero pedir el yogur de ${flavor} 🥄`)}`;
 const Flavors = () => {
@@ -33,9 +33,6 @@ const Flavors = () => {
           {flavors.map((f) => (<article key={f.name} className="group bg-card rounded-3xl overflow-hidden border border-border/60 shadow-soft hover:shadow-card transition-smooth hover:-translate-y-2">
               <div className="relative aspect-square overflow-hidden bg-cream">
                 <img src={f.img} alt={`Yogur sabor ${f.name}`} width={768} height={768} loading="lazy" className="w-full h-full object-cover transition-bounce group-hover:scale-110"/>
-                {f.tag && (<span className="absolute top-4 left-4 px-3 py-1 rounded-full bg-primary text-primary-foreground text-xs font-semibold shadow-soft">
-                    {f.tag}
-                  </span>)}
               </div>
               <div className="p-6">
                 <h3 className="font-display text-2xl font-semibold text-foreground mb-1">

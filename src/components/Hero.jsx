@@ -1,4 +1,4 @@
-import heroImg from "@/assets/hero-yogurt.jpg";
+import heroImg from "@/assets/hero-yogurt-2.png";
 const Hero = ({
   title = (<>
       El antojo más <span className="text-primary italic">cremoso</span> del día.

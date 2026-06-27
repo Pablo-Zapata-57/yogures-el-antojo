@@ -4,31 +4,69 @@
     "title": "De la granja a tu mesa: el proceso detrás de nuestro yogur artesanal",
     "excerpt": "Cada paso está pensado para respetar el sabor natural y mantener la frescura desde la selección hasta la cuchara.",
     "description": "Descubre cómo combinamos fruta real, leche fresca y cultivos vivos para crear una experiencia cremosa, saludable y llena de sabor.",
-    "image": "hero-yogurt.jpg",
-    "content": "Todo comienza con ingredientes selectos: leche fresca de calidad y frutas de temporada que conservan su sabor auténtico. El proceso artesanal respeta cada etapa de fermentación para mantener vivos los probióticos y lograr una textura suave y cremosa. El resultado es un yogur que no solo sabe bien, sino que nutre y entrega una sensación fresca en cada cucharada."
+    "image": "seccion-1-blog.png",
+    "content": [
+      "Todo comienza con ingredientes selectos: leche fresca de calidad y frutas de temporada que conservan su sabor auténtico. El proceso artesanal respeta cada etapa de fermentación para mantener vivos los probióticos y lograr una textura suave y cremosa. El resultado es un yogur que no solo sabe bien, sino que nutre y entrega una sensación fresca en cada cucharada."
+    ]
   },
   {
     "slug": "frutas-de-temporada-y-textura-perfecta",
     "title": "Frutas de temporada y textura perfecta en cada cucharada",
     "excerpt": "Con frutas frescas y trozos reales, cada yogur es una combinación de sabor vibrante y cremosidad natural.",
     "description": "Aprende por qué usamos solo fruta real y cómo esto hace que nuestras recetas sean diferentes y más deliciosas.",
-    "image": "flavor-strawberry.jpg",
-    "content": "Seleccionamos solo frutas maduras y de temporada para asegurar un sabor intenso y auténtico, sin azúcares artificiales. Cada lote se mezcla cuidadosamente para que la textura sea sedosa, manteniendo los trozos de fruta siempre presentes. El balance entre dulzura y acidez se logra con ingredientes naturales que realzan el yogur sin enmascarar su frescura."
+    "image": "seccion-2-blog.png",
+    "content": [
+      "Seleccionamos solo frutas maduras y de temporada para asegurar un sabor intenso y auténtico, sin azúcares artificiales. Cada lote se mezcla cuidadosamente para que la textura sea sedosa, manteniendo los trozos de fruta siempre presentes. El balance entre dulzura y acidez se logra con ingredientes naturales que realzan el yogur sin enmascarar su frescura."
+    ]
   },
   {
-    "slug": "probióticos-activos-para-tu-digestion",
-    "title": "Probióticos activos para tu digestión y bienestar diario",
-    "excerpt": "Nuestro yogur es más que sabor: es una fuente natural de probióticos que apoyan tu sistema digestivo.",
-    "description": "Descubre cómo los cultivos vivos trabajan en tu cuerpo para darte una experiencia suave y saludable.",
-    "image": "flavor-mango.jpg",
-    "content": "El yogur contiene cultivos vivos que ayudan a equilibrar la flora intestinal y mejorar la digestión. Fermentamos cada lote con paciencia para asegurar que los probióticos estén activos y listos para ti. Es una manera deliciosa de integrar beneficios naturales en tu día a día sin sacrificar el sabor."
+    "slug": "el-arte-de-la-fruta-real",
+    "title": "El arte de la fruta: Por qué elegir fruta real cambia todo el sabor",
+    "excerpt": "Descubre por qué la fruta real transforma cada cucharada y hace de nuestro yogur una experiencia más auténtica.",
+    "description": "Explora cómo elegir fruta de verdad mejora la frescura, textura y sabor, llevando tu consumo de yogur a otro nivel.",
+    "image": "seccion-3-blog.png",
+    "content": [
+      "La diferencia entre un yogur común y una experiencia verdaderamente deliciosa está en la calidad de sus ingredientes. Muchas marcas utilizan esencias artificiales o jarabes industriales para dar sabor a sus productos. En cambio, en Yogures El Antojo apostamos por el sabor auténtico de la fruta real.",
+      "Las frutas naturales aportan aromas, colores y sabores únicos que ningún ingrediente artificial puede igualar. Además, conservan mejor sus propiedades nutricionales y brindan una experiencia más fresca y agradable.",
+      "Cada cucharada refleja nuestro compromiso con la calidad, el sabor y la elaboración cuidadosa de cada producto. Porque cuando la fruta es real, el sabor también lo es."
+    ]
   },
   {
-    "slug": "compromiso-con-la-calidad-y-sostenibilidad",
-    "title": "Compromiso con la calidad y sostenibilidad en cada paso",
-    "excerpt": "Desde la selección de ingredientes hasta el empaque, nos esforzamos por ser responsables con el medio ambiente.",
-    "description": "Conoce nuestras prácticas sostenibles y cómo trabajamos para reducir nuestro impacto ambiental mientras te ofrecemos un producto de calidad.",
-    "image": "flavor-mango.jpg",
-    "content": "Trabajamos con proveedores locales para obtener ingredientes frescos y apoyar a las comunidades cercanas. Utilizamos envases reciclables y buscamos constantemente formas de reducir nuestro desperdicio. Nuestro compromiso es ofrecer un producto que no solo sea delicioso, sino también respetuoso con el planeta."
+    "slug": "desayunos-perfectos-5-formas-creativas",
+    "title": "Desayunos perfectos: 5 formas creativas de armar tu 'Yogurt Bowl'",
+    "excerpt": "Inspírate con estas ideas para preparar desayunos nutritivos y deliciosos con nuestros yogures.",
+    "description": "Descubre cómo combinar nuestros yogures con frutas, granola y otros ingredientes para crear desayunos llenos de sabor y energía.",
+    "image": "seccion-4-blog.png",
+    "content": [
+      "1. Yogurt Bowl Tropical: Combina nuestro yogur de mango con rodajas de kiwi, piña y un toque de coco rallado para un desayuno refrescante y lleno de vitaminas.",
+      "2. Yogurt Bowl de Frutos Rojos: Mezcla nuestro yogur de fresa con arándanos, frambuesas y un poco de miel para un desayuno antioxidante y delicioso.",
+      "3. Yogurt Bowl Energético: Añade a nuestro yogur natural granola, semillas de chía y plátano en rodajas para un desayuno que te mantendrá activo durante toda la mañana.",
+      "4. Yogurt Bowl de Chocolate y Avellanas: Combina nuestro yogur de chocolate con avellanas tostadas y un poco de cacao en polvo para un desayuno indulgente pero nutritivo.",
+      "5. Yogurt Bowl de Manzana y Canela: Mezcla nuestro yogur natural con trozos de manzana, un toque de canela y nueces picadas para un desayuno reconfortante y lleno de sabor."
+    ]
+  },
+  {
+    "slug": "qué-son-los-probióticos",
+    "title": "¿Qué son los probióticos y por qué tu digestión te los va a agradecer?",
+    "excerpt": "Descubre los beneficios de los probióticos para tu salud digestiva.",
+    "description": "Aprende qué son los probióticos, cómo funcionan en tu cuerpo y por qué son importantes para tu bienestar general.",
+    "image": "seccion-5-blog.png",
+    "content": [
+      "Los probióticos son microorganismos vivos que aportan beneficios a nuestro organismo, especialmente al sistema digestivo. Se encuentran de forma natural en alimentos fermentados como el yogur y ayudan a mantener el equilibrio de la microbiota intestinal.", 
+      "En Yogures El Antojo, nuestros yogures contienen cultivos vivos que favorecen una mejor digestión, fortalecen las defensas naturales del cuerpo y contribuyen al bienestar general. Una microbiota saludable permite que el organismo absorba mejor los nutrientes, ayudando a mantener niveles adecuados de energía durante el día.", 
+      "Disfrutar un yogur diariamente no solo es un placer para el paladar, sino también una forma sencilla de cuidar tu salud desde adentro."
+    ] 
+  },
+  {
+    "slug": "desmintiendo-mitos-el-yogur-engorda",
+    "title": "Desmintiendo mitos: ¿El yogur engorda? ¿Es malo comerlo de noche?",
+    "excerpt": "Despeja las dudas sobre el yogur y su impacto en tu dieta.",
+    "description": "Aprende la verdad detrás de los mitos más comunes sobre el yogur y cómo puede ser parte de una alimentación saludable.",
+    "image": "seccion-6-blog.png",
+    "content": [
+      "Existen muchas creencias alrededor del consumo de yogur. Una de las más comunes es que engorda o que no debe consumirse en horas de la noche. Sin embargo, la realidad es que el yogur puede formar parte de una alimentación equilibrada cuando se consume en las porciones adecuadas.",
+      "El yogur aporta proteínas, calcio y otros nutrientes importantes para el organismo. Además, puede ser una excelente opción para una merienda o un antojo saludable, incluso durante la noche.",
+      "En Yogures El Antojo creemos que disfrutar de un delicioso yogur no debe generar culpa. Lo importante es mantener hábitos alimenticios balanceados y elegir productos elaborados con ingredientes de calidad."
+    ]
   }
 ]

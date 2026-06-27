@@ -3,15 +3,22 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
-import heroImg from "@/assets/hero-yogurt.jpg";
+import heroImg from "@/assets/hero-yogurt-2.png";
 import blogData from "@/data/blogData.json";
-import strawberryImg from "@/assets/flavor-strawberry.jpg";
-import mangoImg from "@/assets/flavor-mango.jpg";
+import section1Img from "@/assets/seccion-1-blog.png";
+import section2Img from "@/assets/seccion-2-blog.png";
+import section3Img from "@/assets/seccion-3-blog.png";
+import section4Img from "@/assets/seccion-4-blog.png";
+import section5Img from "@/assets/seccion-5-blog.png";
+import section6Img from "@/assets/seccion-6-blog.png";
 
 const imageMap = {
-  "hero-yogurt.jpg": heroImg,
-  "flavor-strawberry.jpg": strawberryImg,
-  "flavor-mango.jpg": mangoImg,
+  "seccion-1-blog.png": section1Img,
+  "seccion-2-blog.png": section2Img,
+  "seccion-3-blog.png": section3Img,
+  "seccion-4-blog.png": section4Img,
+  "seccion-5-blog.png": section5Img,
+  "seccion-6-blog.png": section6Img,
 };
 
 const Blog = () => {
