@@ -16,6 +16,7 @@ const Header = () => {
         </a>
 
         <nav className="flex flex-wrap justify-center gap-4 text-sm font-medium md:flex-1">
+          <a href="/" className="text-foreground/80 hover:text-primary transition-smooth">Inicio</a>
           <a href="/#beneficios" className="text-foreground/80 hover:text-primary transition-smooth">Beneficios</a>
           <a href="/#sabores" className="text-foreground/80 hover:text-primary transition-smooth">Sabores</a>
           <Link to="/blog" className="text-foreground/80 hover:text-primary transition-smooth">Blog</Link>

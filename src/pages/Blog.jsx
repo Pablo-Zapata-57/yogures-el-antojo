@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import ScrollToTopButton from "@/components/ScrollToTopButton";
 import heroImg from "@/assets/hero-yogurt-2.png";
 import blogData from "@/data/blogData.json";
 import section1Img from "@/assets/seccion-1-blog.png";
@@ -73,6 +74,7 @@ const Blog = () => {
         </section>
       </main>
       <Footer />
+      <ScrollToTopButton />
       <WhatsAppButton />
     </div>);
 };
