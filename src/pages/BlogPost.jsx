@@ -8,8 +8,8 @@ import section1Img from "@/assets/seccion-1-blog.png";
 import section2Img from "@/assets/seccion-2-blog.png";
 import section3Img from "@/assets/seccion-3-blog.png";
 import section4Img from "@/assets/seccion-4-blog.png";
-import section5Img from "@/assets/seccion-5-blog.png";
-import section6Img from "@/assets/seccion-6-blog.png";
+import section5Img from "@/assets/seccion-5-blog.jpeg";
+import section6Img from "@/assets/seccion-6-blog.jpeg";
 import blogData from "@/data/blogData.json";
 
 const imageMap = {
@@ -17,8 +17,8 @@ const imageMap = {
   "seccion-2-blog.png": section2Img,
   "seccion-3-blog.png": section3Img,
   "seccion-4-blog.png": section4Img,
-  "seccion-5-blog.png": section5Img,
-  "seccion-6-blog.png": section6Img,
+  "seccion-5-blog.jpeg": section5Img,
+  "seccion-6-blog.jpeg": section6Img,
 };
 
 const BlogPost = () => {

@@ -39,7 +39,7 @@ const Footer = () => {
           </nav>
 
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Yogures el Antojo
+            © {new Date().getFullYear()} Desarrollado por <span className="font-semibold">Pablo Zapata</span>
           </p>
         </div>
       </div>
