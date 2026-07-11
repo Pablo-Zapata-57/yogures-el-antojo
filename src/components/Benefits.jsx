@@ -38,11 +38,11 @@ const Benefits = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
-          {benefits.map((b, i) => (<div key={b.title} className="group relative bg-card rounded-2xl p-8 border border-border/60 shadow-soft hover:shadow-card transition-smooth hover:-translate-y-1" style={{ animationDelay: `${i * 0.1}s` }}>
+          {benefits.map((b, i) => (<div key={b.title} className="group flex flex-col items-center bg-card rounded-2xl p-8 border border-border/60 shadow-soft hover:shadow-card transition-smooth hover:-translate-y-1" style={{ animationDelay: `${i * 0.1}s` }}>
               <div className={`w-14 h-14 rounded-2xl ${b.color} flex items-center justify-center mb-5 transition-bounce group-hover:scale-110 group-hover:rotate-6`}>
                 <b.icon className="w-7 h-7" strokeWidth={2}/>
               </div>
-              <h3 className="font-display text-xl md:text-2xl font-semibold text-foreground mb-2">
+              <h3 className={`font-display text-left text-xl md:text-2xl font-semibold ${b.title === "Probióticos Activos" ? "text-foreground dark:text-white" : "text-foreground"} mb-2`}>
                 {b.title}
               </h3>
               <p className="text-muted-foreground leading-relaxed">

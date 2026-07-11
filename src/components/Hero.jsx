@@ -57,7 +57,7 @@ const Hero = ({
               🍓 Fruta real
             </div>
             <div className="absolute -bottom-3 -left-3 md:-bottom-4 md:-left-4 bg-card px-4 py-2 rounded-full shadow-soft text-sm font-semibold text-secondary-foreground border border-secondary-soft">
-              🥛 Probióticos
+              🥛 <span className="dark:text-white">Probióticos</span>
             </div>
           </div>
         </div>

@@ -32,6 +32,7 @@ const Footer = () => {
           </div>
 
           <nav className="flex items-center gap-6 text-sm text-muted-foreground">
+            <a href="#inicio" className="hover:text-primary transition-smooth">Inicio</a>
             <a href="#beneficios" className="hover:text-primary transition-smooth">Beneficios</a>
             <a href="#sabores" className="hover:text-primary transition-smooth">Sabores</a>
             <Link to="/blog" className="hover:text-primary transition-smooth">Blog</Link>

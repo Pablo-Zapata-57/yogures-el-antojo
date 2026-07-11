@@ -86,17 +86,38 @@
     --popover-foreground: 38 50% 95%;
     --primary: 354 75% 64%;
     --primary-foreground: 0 0% 100%;
+    --primary-soft: 354 50% 18%;
     --secondary: 38 92% 60%;
     --secondary-foreground: 20 30% 18%;
+    --secondary-soft: 38 50% 15%;
     --muted: 20 15% 20%;
     --muted-foreground: 35 20% 70%;
     --accent: 20 15% 20%;
     --accent-foreground: 38 50% 95%;
+    --cream: 20 20% 16%;
+    --cream-deep: 20 22% 20%;
     --destructive: 0 62% 40%;
     --destructive-foreground: 0 0% 100%;
     --border: 20 15% 22%;
     --input: 20 15% 22%;
     --ring: 354 75% 64%;
+    --whatsapp: 142 70% 49%;
+    --whatsapp-foreground: 0 0% 100%;
+    --gradient-hero: linear-gradient(135deg, hsl(20 25% 8%) 0%, hsl(354 50% 12%) 50%, hsl(38 50% 10%) 100%);
+    --gradient-warm: linear-gradient(135deg, hsl(354 75% 64%) 0%, hsl(38 92% 60%) 100%);
+    --gradient-soft: linear-gradient(180deg, hsl(20 25% 8%) 0%, hsl(20 25% 14%) 100%);
+    --shadow-soft: 0 4px 20px -4px hsl(0 0% 0% / 0.4);
+    --shadow-card: 0 8px 30px -10px hsl(0 0% 0% / 0.5);
+    --shadow-glow: 0 10px 40px -10px hsl(354 75% 64% / 0.25);
+    --shadow-float: 0 12px 28px -6px hsl(142 70% 30% / 0.2);
+    --sidebar-background: 20 25% 8%;
+    --sidebar-foreground: 38 50% 90%;
+    --sidebar-primary: 354 75% 64%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 20 15% 18%;
+    --sidebar-accent-foreground: 38 50% 90%;
+    --sidebar-border: 20 15% 20%;
+    --sidebar-ring: 354 75% 64%;
   }
 }
 
