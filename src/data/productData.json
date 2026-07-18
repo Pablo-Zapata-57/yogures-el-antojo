@@ -5,9 +5,9 @@
     "description": "Un clásico que combina la dulzura natural de la fresa con la textura cremosa de nuestro yogur. Cada cucharada trae trozos reales de fruta que se funden con la base láctea para un sabor fresco y reconfortante.",
     "fullDescription": "Nuestro yogur de fresa es el favorito de la casa. Elaborado con fresas maduras seleccionadas a mano, cada lote conserva el equilibrio perfecto entre acidez y dulzor. La fruta se incorpora en trozos reales que se mezclan suavemente con la base de yogur artesanal, creando una experiencia que despierta los sentidos desde el primer bocado. Ideal para disfrutar solo, con granola o como base de tus bowls favoritos.",
     "sizes": [
-      { "name": "Pequeño", "label": "250 ml", "price": 5000 },
-      { "name": "Mediano", "label": "500 ml", "price": 7000 },
-      { "name": "Grande", "label": "1 L", "price": 10000 }
+      { "name": "Pequeño", "label": "500 ml", "price": 7000 },
+      { "name": "Mediano", "label": "1 L", "price": 14000 },
+      { "name": "Grande", "label": "2 L", "price": 28000 }
     ],
     "image": "Yogurt-de-fresa.jpg.jpeg",
     "tag": "Best seller",
@@ -19,9 +19,9 @@
     "description": "Un sabor vibrante que despierta el paladar con notas ácidas y dulces. Nuestro yogur de mora está hecho con fruta madura de verdad para ofrecer una experiencia intensa y llena de energía.",
     "fullDescription": "La mora aporta un carácter único a nuestro yogur artesanal. Seleccionamos moras en su punto exacto de maduración para conseguir ese equilibrio entre acidez refrescante y dulzura natural. Cada cucharada revela el color vibrante y el aroma inconfundible de la fruta recién cosechada. Es el acompañante perfecto para empezar el día con energía o como merienda revitalizante.",
     "sizes": [
-      { "name": "Pequeño", "label": "250 ml", "price": 5000 },
-      { "name": "Mediano", "label": "500 ml", "price": 7000 },
-      { "name": "Grande", "label": "1 L", "price": 10000 }
+      { "name": "Pequeño", "label": "500 ml", "price": 5000 },
+      { "name": "Mediano", "label": "1 L", "price": 7000 },
+      { "name": "Grande", "label": "2 L", "price": 10000 }
     ],
     "image": "Yogurt-de-mora.jpg.jpeg",
     "tag": "Favorito",
@@ -33,9 +33,9 @@
     "description": "Exótico y refrescante, este sabor ofrece el equilibrio perfecto entre acidez y cremosidad. Es la opción ideal para quienes buscan un toque tropical sin perder la suavidad del yogur artesanal.",
     "fullDescription": "El maracuyá es sinónimo de frescura tropical. Nuestra receta captura la esencia de esta fruta exótica combinando su acidez característica con la cremosidad de nuestro yogur de elaboración propia. El resultado es una experiencia refrescante que transporta directamente al trópico. Perfecto para quienes buscan un sabor atrevido pero equilibrado, ideal para las tardes calurosas o como postre ligero.",
     "sizes": [
-      { "name": "Pequeño", "label": "250 ml", "price": 5000 },
-      { "name": "Mediano", "label": "500 ml", "price": 7000 },
-      { "name": "Grande", "label": "1 L", "price": 10000 }
+      { "name": "Pequeño", "label": "500 ml", "price": 5000 },
+      { "name": "Mediano", "label": "1 L", "price": 7000 },
+      { "name": "Grande", "label": "2 L", "price": 10000 }
     ],
     "image": "Yogurt-de-maracuyá.jpg.jpeg",
     "tag": null,
@@ -47,9 +47,9 @@
     "description": "Jugoso y delicado, con el aroma natural de la fruta tropical. La piña aporta una sensación ligera y dulce que transforma cada cucharada en un momento fresco y delicioso.",
     "fullDescription": "La piña aporta un toque tropical inconfundible a nuestro yogur. Usamos piña fresca en su punto exacto de maduración para lograr un sabor dulce y jugoso sin perder la acidez natural que la caracteriza. La textura ligera de este yogur lo convierte en una opción refrescante ideal para cualquier momento del día. Combina perfectamente con coco rallado, granola o simplemente solo para apreciar su sabor puro.",
     "sizes": [
-      { "name": "Pequeño", "label": "250 ml", "price": 5000 },
-      { "name": "Mediano", "label": "500 ml", "price": 7000 },
-      { "name": "Grande", "label": "1 L", "price": 10000 }
+      { "name": "Pequeño", "label": "500 ml", "price": 5000 },
+      { "name": "Mediano", "label": "1 L", "price": 7000 },
+      { "name": "Grande", "label": "2 L", "price": 10000 }
     ],
     "image": "Yogurt-de-piña.jpg.jpeg",
     "tag": null,
@@ -61,9 +61,9 @@
     "description": "Cremoso y suave, con un toque sutil de dulzura natural. La guanábana se integra perfectamente con nuestra base de yogur para ofrecer un sabor delicado y reconfortante.",
     "fullDescription": "La guanábana es una de las frutas más apreciadas de nuestra región por su sabor dulce y textura cremosa. En nuestro yogur artesanal, la pulpa de guanábana se integra de manera homogénea creando una experiencia suave y sedosa en cada cucharada. Su dulzura natural permite reducir al mínimo los azúcares añadidos, dejando que sea la fruta la que hable por sí sola. Un sabor clásico que nunca pasa de moda.",
     "sizes": [
-      { "name": "Pequeño", "label": "250 ml", "price": 5000 },
-      { "name": "Mediano", "label": "500 ml", "price": 7000 },
-      { "name": "Grande", "label": "1 L", "price": 10000 }
+      { "name": "Pequeño", "label": "500 ml", "price": 5000 },
+      { "name": "Mediano", "label": "1 L", "price": 7000 },
+      { "name": "Grande", "label": "2 L", "price": 10000 }
     ],
     "image": "Yogurt-de-guanabana.jpg.jpeg",
     "tag": "Clásico",
@@ -75,9 +75,9 @@
     "description": "Una experiencia auténtica y diferente, con matices fermentados y un toque refrescante. Este sabor rinde homenaje a las tradiciones lácteas mientras sigue siendo ligero y muy sabroso.",
     "fullDescription": "El Kumis es nuestra interpretación artesanal de una tradición láctea centenaria. Con un proceso de fermentación lento y cuidadoso, desarrollamos ese sabor ligeramente ácido y refrescante que los amantes del yogur natural aprecian. Su textura es más ligera que la de nuestros otros sabores, con un final limpio que invita a seguir disfrutando. Es la opción perfecta para quienes buscan un yogur con carácter y tradición.",
     "sizes": [
-      { "name": "Pequeño", "label": "250 ml", "price": 5000 },
-      { "name": "Mediano", "label": "500 ml", "price": 7000 },
-      { "name": "Grande", "label": "1 L", "price": 10000 }
+      { "name": "Pequeño", "label": "500 ml", "price": 5000 },
+      { "name": "Mediano", "label": "1 L", "price": 7000 },
+      { "name": "Grande", "label": "2 L", "price": 10000 }
     ],
     "image": "Yogurt-kumis.jpg.jpeg",
     "tag": "Nuevo",

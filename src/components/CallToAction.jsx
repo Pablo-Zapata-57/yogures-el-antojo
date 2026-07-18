@@ -10,7 +10,7 @@ const CallToAction = () => {
               ¿Listo para tu próximo antojo?
             </h2>
             <p className="mt-4 text-primary-foreground/90 text-base md:text-lg">
-              Hacemos entregas a domicilio todos los días. Pide ahora por WhatsApp y recíbelo fresquito.
+              Hacemos entregas a domicilio en Remedios, La Cruzada y Segovia. Pide ahora por WhatsApp y recíbelo fresquito.
             </p>
             <a href="https://wa.me/573046083756?text=Hola!%20Quiero%20hacer%20un%20pedido%20🍓" target="_blank" rel="noopener noreferrer" className="mt-8 inline-flex items-center gap-2 px-8 py-4 rounded-full bg-card text-foreground font-semibold shadow-glow hover:scale-105 transition-bounce">
               Pedir ahora por WhatsApp
