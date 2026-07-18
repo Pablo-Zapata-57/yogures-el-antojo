@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Facebook, Instagram } from "lucide-react";
+import { Facebook, Instagram, MapPin } from "lucide-react";
 import logo from "@/assets/logo-Yogures-el-antojo-2.jpg";
 const TikTokIcon = () => (
   <svg viewBox="0 0 256 256" fill="currentColor" aria-hidden="true" className="h-5 w-5">
@@ -27,8 +27,11 @@ const Footer = () => {
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </a>
-          
             </div>
+            <p className="mt-3 text-xs text-muted-foreground flex items-center gap-1.5">
+              <MapPin className="h-3.5 w-3.5" />
+              Remedios, La Cruzada, Segovia
+            </p>
           </div>
 
           <nav className="flex items-center gap-6 text-sm text-muted-foreground">
